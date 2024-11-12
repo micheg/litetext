@@ -1,0 +1,25 @@
+{
+  "name": "lite-text",
+  "version": "1.0.0",
+  "description": "A simple rich text editor component built with React",
+  "main": "src/LiteText.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micheg/litetext.git"
+  },
+  "author": "Michelangelo Giacomelli",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "rich-text",
+    "editor",
+    "text-editor",
+    "rte",
+    "tailwind"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "lucide-react": "^0.25.0",
+    "tailwindcss": "^3.0.0"
+  }
+}
