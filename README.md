@@ -19,3 +19,23 @@ npm install my-rich-text-editor react lucide-react tailwindcss
 ## Demo
 
 a demo can be seen [on my project demo site](https://micheg.altervista.org/editordemo/).
+
+## Usage
+
+1. install tailwind
+
+2. use the component:
+
+```js
+import LiteText from "lite-text";
+
+function App() {
+  return (
+    <div className="App">
+      <LiteText />
+    </div>
+  );
+}
+
+export default App;
+```
